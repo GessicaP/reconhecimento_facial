@@ -1,0 +1,377 @@
+[
+  {
+    "recognitionModel": "reconhecimento_01",
+    "faceRectangle": {
+      "largura": 68,
+      "altura": 113,
+      "esquerda": 274,
+      "topo": 111
+    },
+    "faceMarcos": {
+      "pupilaEsquerda": {
+        "x": 316,1,
+        "e": 160,2
+      },
+      "pupilaRight": {
+        "x": 333,1,
+        "e": 157,2
+      },
+      "ponta do nariz": {
+        "x": 342,3,
+        "e": 176,6
+      },
+      "bocaEsquerda": {
+        "x": 314,
+        "e": 194,8
+      },
+      "bocaDireita": {
+        "x": 332,5,
+        "e": 190,3
+      },
+      "sobrancelhaesquerdaexterna": {
+        "x": 304,6,
+        "e": 155,9
+      },
+      "sobrancelhaEsquerdaInterna": {
+        "x": 325,2,
+        "e": 151,4
+      },
+      "olhoEsquerdoExterno": {
+        "x": 312,5,
+        "e": 160,9
+      },
+      "olhoEsquerdoTopo": {
+        "x": 316,4,
+        "e": 158,9
+      },
+      "olhoEsquerdoInferior": {
+        "x": 316,6,
+        "e": 161,2
+      },
+      "olhoEsquerdoInterno": {
+        "x": 318,7,
+        "e": 159,8
+      },
+      "sobrancelhaDireitaInterior": {
+        "x": 332,4,
+        "e": 150,9
+      },
+      "sobrancelhaDireitaExterna": {
+        "x": 335,2,
+        "e": 148,3
+      },
+      "olhoDireitoInterior": {
+        "x": 330,6,
+        "e": 157,9
+      },
+      "olhoDireitoTopo": {
+        "x": 333,6,
+        "e": 155,8
+      },
+      "olhoDireitoInferior": {
+        "x": 333,6,
+        "e": 158
+      },
+      "olhoDireitoExterno": {
+        "x": 334,4,
+        "e": 157
+      },
+      "narizRaizEsquerda": {
+        "x": 325,1,
+        "e": 159,9
+      },
+      "narizRaizDireita": {
+        "x": 331,6,
+        "e": 159
+      },
+      "noseLeftAlarTop": {
+        "x": 325,1,
+        "e": 172,8
+      },
+      "noseRightAlarTop": {
+        "x": 336,4,
+        "e": 169,5
+      },
+      "noseLeftAlarOutTip": {
+        "x": 322,7,
+        "e": 179,4
+      },
+      "noseRightAlarOutTip": {
+        "x": 337,3,
+        "e": 175,3
+      },
+      "topo do lábio superior": {
+        "x": 333,4,
+        "e": 189,7
+      },
+      "lábiosuperiorinferior": {
+        "x": 332,4,
+        "e": 192,6
+      },
+      "underLipTop": {
+        "x": 331,9,
+        "e": 197,7
+      },
+      "sobLipBottom": {
+        "x": 332,
+        "e": 202
+      }
+    },
+    "Atributos de rosto": {
+      "máscara": {
+        "tipo": "noMask",
+        "narizEBocaCoberto": falso
+      }
+    }
+  },
+  {
+    "recognitionModel": "reconhecimento_01",
+    "faceRectangle": {
+      "largura": 69,
+      "altura": 106,
+      "esquerda": 624,
+      "topo": 80
+    },
+    "faceMarcos": {
+      "pupilaEsquerda": {
+        "x": 630,1,
+        "e": 125,4
+      },
+      "pupilaRight": {
+        "x": 645,1,
+        "e": 124,4
+      },
+      "ponta do nariz": {
+        "x": 622,8,
+        "e": 146,4
+      },
+      "bocaEsquerda": {
+        "x": 635,7,
+        "e": 160,3
+      },
+      "bocaDireita": {
+        "x": 651,9,
+        "e": 160,3
+      },
+      "sobrancelhaesquerdaexterna": {
+        "x": 624,9,
+        "e": 116,8
+      },
+      "sobrancelhaEsquerdaInterna": {
+        "x": 628,1,
+        "e": 117,8
+      },
+      "olhoEsquerdoExterno": {
+        "x": 629,1,
+        "e": 125,5
+      },
+      "olhoEsquerdoTopo": {
+        "x": 629,4,
+        "e": 123,7
+      },
+      "olhoEsquerdoInferior": {
+        "x": 630,2,
+        "e": 126,8
+      },
+      "olhoEsquerdoInterno": {
+        "x": 631,8,
+        "e": 125,5
+      },
+      "sobrancelhaDireitaInterior": {
+        "x": 634,9,
+        "e": 117,1
+      },
+      "sobrancelhaDireitaExterna": {
+        "x": 655,
+        "e": 115,9
+      },
+      "olhoDireitoInterior": {
+        "x": 642,8,
+        "e": 125
+      },
+      "olhoDireitoTopo": {
+        "x": 643,9,
+        "e": 122,2
+      },
+      "olhoDireitoInferior": {
+        "x": 645,
+        "e": 126
+      },
+      "olhoDireitoExterno": {
+        "x": 648,6,
+        "e": 124,4
+      },
+      "narizRaizEsquerda": {
+        "x": 631,9,
+        "e": 126,4
+      },
+      "narizRaizDireita": {
+        "x": 636,1,
+        "e": 126,5
+      },
+      "noseLeftAlarTop": {
+        "x": 628,2,
+        "e": 139,5
+      },
+      "noseRightAlarTop": {
+        "x": 638,2,
+        "e": 139,8
+      },
+      "noseLeftAlarOutTip": {
+        "x": 628,5,
+        "e": 145,9
+      },
+      "noseRightAlarOutTip": {
+        "x": 641,5,
+        "e": 146,8
+      },
+      "topo do lábio superior": {
+        "x": 634,4,
+        "e": 158,6
+      },
+      "lábiosuperiorinferior": {
+        "x": 635,3,
+        "e": 161
+      },
+      "underLipTop": {
+        "x": 636,4,
+        "e": 164,1
+      },
+      "sobLipBottom": {
+        "x": 637,1,
+        "e": 168,2
+      }
+    },
+    "Atributos de rosto": {
+      "máscara": {
+        "tipo": "noMask",
+        "narizEBocaCoberto": falso
+      }
+    }
+  },
+  {
+    "recognitionModel": "reconhecimento_01",
+    "faceRectangle": {
+      "largura": 52,
+      "altura": 86,
+      "esquerda": 874,
+      "topo": 273
+    },
+    "faceMarcos": {
+      "pupilaEsquerda": {
+        "x": 885,8,
+        "e": 301
+      },
+      "pupilaRight": {
+        "x": 896,1,
+        "e": 304,2
+      },
+      "ponta do nariz": {
+        "x": 875,4,
+        "e": 316,9
+      },
+      "bocaEsquerda": {
+        "x": 884,5,
+        "e": 335,1
+      },
+      "bocaDireita": {
+        "x": 894,3,
+        "e": 337,9
+      },
+      "sobrancelhaesquerdaexterna": {
+        "x": 883,7,
+        "e": 291,9
+      },
+      "sobrancelhaEsquerdaInterna": {
+        "x": 885,2,
+        "e": 293,5
+      },
+      "olhoEsquerdoExterno": {
+        "x": 885,4,
+        "e": 300,7
+      },
+      "olhoEsquerdoTopo": {
+        "x": 885,3,
+        "e": 299,5
+      },
+      "olhoEsquerdoInferior": {
+        "x": 885,6,
+        "e": 302,2
+      },
+      "olhoEsquerdoInterno": {
+        "x": 887,
+        "e": 301,5
+      },
+      "sobrancelhaDireitaInterior": {
+        "x": 889,8,
+        "e": 294,7
+      },
+      "sobrancelhaDireitaExterna": {
+        "x": 904,4,
+        "e": 298,9
+      },
+      "olhoDireitoInterior": {
+        "x": 894,5,
+        "e": 303,8
+      },
+      "olhoDireitoTopo": {
+        "x": 895,2,
+        "e": 302,2
+      },
+      "olhoDireitoInferior": {
+        "x": 895,7,
+        "e": 305,6
+      },
+      "olhoDireitoExterno": {
+        "x": 899,
+        "e": 305,1
+      },
+      "narizRaizEsquerda": {
+        "x": 886,5,
+        "e": 302,3
+      },
+      "narizRaizDireita": {
+        "x": 889,2,
+        "e": 303,2
+      },
+      "noseLeftAlarTop": {
+        "x": 881,6,
+        "e": 312,6
+      },
+      "noseRightAlarTop": {
+        "x": 888,3,
+        "e": 314,8
+      },
+      "noseLeftAlarOutTip": {
+        "x": 881,3,
+        "e": 318,2
+      },
+      "noseRightAlarOutTip": {
+        "x": 889,9,
+        "e": 321,6
+      },
+      "topo do lábio superior": {
+        "x": 882,1,
+        "e": 330,2
+      },
+      "lábiosuperiorinferior": {
+        "x": 882,9,
+        "e": 333
+      },
+      "underLipTop": {
+        "x": 884,7,
+        "e": 341,2
+      },
+      "sobLipBottom": {
+        "x": 885,1,
+        "e": 345,1
+      }
+    },
+    "Atributos de rosto": {
+      "máscara": {
+        "tipo": "noMask",
+        "narizEBocaCoberto": falso
+      }
+    }
+  }
+]
